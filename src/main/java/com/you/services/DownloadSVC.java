@@ -7,7 +7,7 @@ import java.io.InputStream;
 import java.net.MalformedURLException;
 import java.net.URL;
 
-import com.volmit.phantom.lang.io.VIO;
+import com.volmit.phantom.lang.VIO;
 import com.volmit.phantom.plugin.Job;
 import com.volmit.phantom.plugin.JobService;
 import com.you.services.DownloadSVC.DownloadJob;
